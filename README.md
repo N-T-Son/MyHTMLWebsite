@@ -1,1 +1,1 @@
-# MyHTMLWebsite for Introduction to HTML5 course in Coursera
+#  Homework One: Styling Your First Page
